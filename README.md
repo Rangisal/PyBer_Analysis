@@ -10,7 +10,7 @@ https://github.com/Rangisal/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
 
 * It is noticable that cities in Urban areas have higher number of drivers but their number of rides comparing to the number of drivers are very low. This causes the significant decrease in average fare per ride and the average fare per driver. 
 
-* 
+* Cities in Suburban areas shows their average fare per ride and average fare per driver between the averages of Urban and Rural areas. The number of drivers and the rides are higher than rural areas and lower than urban areas.
 
 
 ![image](https://user-images.githubusercontent.com/93173498/144738258-4fce2463-6c88-4ee1-9dce-2b8426e6de4f.png)
