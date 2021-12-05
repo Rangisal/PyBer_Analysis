@@ -17,8 +17,6 @@ Also multiple line graph that shows the total week fares for each city type. Hen
 ![image](https://user-images.githubusercontent.com/93173498/144738258-4fce2463-6c88-4ee1-9dce-2b8426e6de4f.png)
 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 # Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-Submission
