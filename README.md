@@ -23,3 +23,6 @@ Also multiple line graph that shows the total week fares for each city type. Hen
 
 # Summary:
 
+* More focus should be given to hiring more drivers in the rural areas. Hence it will increase the number of rides and resulting a higher total fares.
+* The number of rides should be increased in the urban areas in order to get higher total fare and hence the average fare per ride and per driver will be increased.
+* Also increasing fare overall in all the areas will be generated more revenue in the future. 
