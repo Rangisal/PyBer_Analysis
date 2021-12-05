@@ -17,6 +17,7 @@ Also multiple line graph that shows the total week fares for each city type. Hen
 ![image](https://user-images.githubusercontent.com/93173498/144738258-4fce2463-6c88-4ee1-9dce-2b8426e6de4f.png)
 
 
+![image](https://user-images.githubusercontent.com/93173498/144738984-abc8000c-8750-4ad5-8f62-a179f6090f30.png)
 
 
 
